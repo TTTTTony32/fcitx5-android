@@ -52,12 +52,12 @@ class TextKeyboard(
                 AlphabetKey("H", "-"),
                 AlphabetKey("J", "+"),
                 AlphabetKey("K", "("),
-                AlphabetKey("L", ")")
+                AlphabetKey("L", ")"),
                 AlphabetKey(";", "/")
             ),
             listOf(
                 CapsKey(),
-                AlphabetKey("Z", "\"),
+                AlphabetKey("Z", "\\"),
                 AlphabetKey("X", "\""),
                 AlphabetKey("C", "."),
                 AlphabetKey("V", ":"),
